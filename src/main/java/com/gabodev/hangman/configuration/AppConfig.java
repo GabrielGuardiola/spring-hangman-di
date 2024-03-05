@@ -1,8 +1,8 @@
-package com.gabodev.calculator.configuration;
+package com.gabodev.hangman.configuration;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 @Configuration
-@ComponentScan(basePackages = "com.gabodev.calculator")
+@ComponentScan(basePackages = "com.gabodev.hangman")
 public class AppConfig {
 }
